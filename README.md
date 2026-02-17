@@ -75,11 +75,15 @@ results_matrix.csv
 
 Generated plots are available :
 heatmap.png
+
 accuracy_bar_chart.png
 
 
 - Heatmap: Model vs Sampling Accuracy
+- <img width="2771" height="1638" alt="image" src="https://github.com/user-attachments/assets/e0b2945a-a8d9-4a05-bc83-15d9f16b63cb" />
+
 - Bar Chart: Overall Accuracy Comparison
+<img width="3820" height="2066" alt="image" src="https://github.com/user-attachments/assets/8299d43e-8550-4201-8a49-376f17d226a7" />
 
 ---
 
