@@ -1,0 +1,6 @@
+Model,RandomOverSampling,RandomOverSampling_imblearn,RandomUnderSampling,RandomUnderSampling_imblearn,SMOTE
+M1_LogisticRegression,93.46,93.46,25.0,25.0,90.85
+M2_DecisionTree,99.67,98.69,75.0,75.0,98.04
+M3_RandomForest,100.0,100.0,0.0,50.0,99.35
+M4_SVM,66.99,66.99,0.0,0.0,68.63
+M5_XGBoost,99.67,99.67,75.0,75.0,99.02
